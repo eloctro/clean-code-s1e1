@@ -160,11 +160,11 @@ ul li input[type=text] {
   display: none;
 }
 
-ul .edit-Mode input[type=text] {
+ul .edit-mode input[type=text] {
   display: inline-block;
   width: 224px;
 }
 
-ul .edit-Mode label {
+ul .edit-mode label {
   display: none;
 }
